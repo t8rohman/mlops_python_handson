@@ -1,5 +1,5 @@
 # mlops_python_handson
-Hands-on practices on how to deploy ml model into operationalization. This exercise demonstrates some practical hands-on in the machine learning model deployment world. All of the exercises are taken <a href="https://www.packtpub.com/product/machine-learning-engineering-with-python-second-edition/9781837631964">from Machine Learning Engineering with Python written by Andrew P. McMahon</a>. 
+Hands-on practices on how to deploy ml model into operationalization. This exercise demonstrates some practical hands-on in the machine learning model deployment world. All of the exercises are taken either from <a href="https://www.packtpub.com/product/machine-learning-engineering-with-python-second-edition/9781837631964">Machine Learning Engineering with Python written by Andrew P. McMahon</a> or by playing around an existing data myself. 
 
 Below are the contents of the exercise:
 
