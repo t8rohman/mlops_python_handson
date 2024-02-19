@@ -8,7 +8,7 @@ Below are the contents of the exercise:
    - Using the <b>setup.py</b> and <b>requirements.txt</b> to package the code.
    - <b>Makefile</b> introduction to automate software building procedure and other complex tasks with dependencies.
 
-2. Quick Tensorflow Deployment End-to-End
+2. Quick Tensorflow Deployment End-to-End (02_tensorflow-endtoend)
    - Build the neural network model on the popular <a href="https://www.kaggle.com/competitions/titanic/data">Titanic dataset</a> using <b>tensorflow</b>.
    - <b>Model versioning</b> using .cfg file.
    - Quick deployment using <b>Flask for getting the prediction</b>.
